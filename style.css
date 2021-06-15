@@ -62,7 +62,7 @@ h3 {
     width: 50em;
 }
 
-#list {
+.list {
     text-align: left;
     margin-left: auto;
     margin-right: auto;
